@@ -1,2 +1,3 @@
 # FrotniteHack
-Aimbot and more
+Extract The File and Run It and enjoy
+ 
